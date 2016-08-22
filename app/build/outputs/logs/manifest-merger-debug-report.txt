@@ -1,0 +1,368 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:2:1-123:12
+	package
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:3:5-67
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:19:22-76
+application
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:21:5-121:19
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:27:9-45
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:25:9-35
+	android:allowBackup
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.amazonaws.youruserpools.MainActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:29:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.amazonaws.youruserpools.UserActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:37:9-40:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:39:13-56
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:38:13-68
+activity#com.amazonaws.youruserpools.RegisterUser
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:41:9-43:59
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:42:13-68
+activity#com.amazonaws.youruserpools.AboutApp
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:44:9-47:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:46:13-61
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:45:13-64
+activity#com.amazonaws.youruserpools.SignUpConfirm
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:48:9-51:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:50:13-67
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:49:13-69
+activity#com.amazonaws.youruserpools.MFAActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:52:9-55:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:54:13-55
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:53:13-67
+activity#com.amazonaws.youruserpools.ForgotPasswordActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:56:9-59:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:58:13-67
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:57:13-78
+activity#com.amazonaws.youruserpools.SettingsActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:60:9-63:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:62:13-60
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:61:13-72
+activity#com.amazonaws.youruserpools.ChangePasswordActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:64:9-67:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:66:13-67
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:65:13-78
+activity#com.amazonaws.youruserpools.VerifyActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:68:9-71:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:70:13-58
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:69:13-70
+activity#com.amazonaws.youruserpools.AddAttributeActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:72:9-75:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:74:13-65
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:73:13-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:77:9-79:55
+	android:value
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:79:13-52
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:78:13-58
+activity#com.amazonaws.youruserpools.MapsActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:81:9-87:20
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:82:13-68
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:84:13-86:76
+	android:value
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:86:17-73
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:85:17-63
+activity#com.amazonaws.youruserpools.Cammera_Activity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:88:9-81
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:88:19-78
+activity#com.amazonaws.youruserpools.Image_Selections
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:89:9-92:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:91:13-69
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:90:13-72
+activity#com.amazonaws.youruserpools.ImageActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:93:9-78
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:93:19-75
+activity#com.amazonaws.youruserpools.CloudActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:94:9-97:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:96:13-57
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:97:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:95:13-69
+activity#com.amazonaws.youruserpools.DownloadActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:98:9-81
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:98:19-78
+activity#com.amazonaws.youruserpools.UploadActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:99:9-102:59
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:101:13-58
+	android:theme
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:102:13-56
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:100:13-70
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:104:9-106:38
+	android:enabled
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:106:13-35
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:105:13-93
+activity#com.amazonaws.youruserpools.DownloadSelectionActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:108:9-90
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:108:19-87
+activity#com.amazonaws.youruserpools.CloudSelections
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:109:9-80
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:109:19-77
+activity#com.amazonaws.youruserpools.SettingsActivityWeather
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:110:9-116:20
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:112:13-45
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:111:13-79
+activity#com.amazonaws.youruserpools.WeatherActivity
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:117:9-119:57
+	android:label
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:118:13-71
+activity#com.amazonaws.youruserpools.CloudImageSelection
+ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:120:9-93
+	android:name
+		ADDED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml:120:19-81
+uses-sdk
+INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:22-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\KESHAV\Desktop\FinalApp\AmazonCognito\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31

@@ -1,0 +1,30 @@
+-keep class com.amazonaws.youruserpools.MainActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.UserActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.RegisterUser { <init>(); }
+-keep class com.amazonaws.youruserpools.AboutApp { <init>(); }
+-keep class com.amazonaws.youruserpools.SignUpConfirm { <init>(); }
+-keep class com.amazonaws.youruserpools.MFAActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.ForgotPasswordActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.SettingsActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.ChangePasswordActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.VerifyActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.AddAttributeActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.MapsActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.Cammera_Activity { <init>(); }
+-keep class com.amazonaws.youruserpools.Image_Selections { <init>(); }
+-keep class com.amazonaws.youruserpools.ImageActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.CloudActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.DownloadActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.UploadActivity { <init>(); }
+-keep class com.amazonaws.mobileconnectors.s3.transferutility.TransferService { <init>(); }
+-keep class com.amazonaws.youruserpools.DownloadSelectionActivity { <init>(); }
+-keep class com.amazonaws.youruserpools.CloudSelections { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

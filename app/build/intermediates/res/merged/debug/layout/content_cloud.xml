@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <!--<Button
+        android:id="@+id/buttonDownloadMain"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:text="@string/manage_download" />
+        -->
+
+    <Button
+        android:id="@+id/buttonUploadMain"
+        android:layout_width="325dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="64dp"
+        android:padding="20dp"
+        android:text="@string/manage_upload" />
+
+    <Button
+        android:id="@+id/cloud"
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:text="Select Images" />
+
+
+    <Button
+        android:id="@+id/shareUserNameText"
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:text="Send a Share Request" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/shareBucket"
+        android:id="@+id/shareBucketTV"
+        android:textStyle="bold" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_text_height"
+        android:paddingLeft="@dimen/activity_text_padding"
+        android:paddingRight="@dimen/activity_text_padding"
+        android:id="@+id/shareBucket"
+        android:background="@drawable/text_border_selector"
+        android:hint="@string/Username"
+        android:inputType="textPersonName"
+        />
+
+    <Button
+        android:id="@+id/shareUserNameButton"
+        android:layout_width="338dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:text="@string/get_photos" />
+
+
+
+</LinearLayout>
